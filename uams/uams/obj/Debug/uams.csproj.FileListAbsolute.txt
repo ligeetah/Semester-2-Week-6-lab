@@ -1,0 +1,36 @@
+C:\Users\Mirza\source\repos\uams\uams\bin\Debug\uams.exe.config
+C:\Users\Mirza\source\repos\uams\uams\bin\Debug\uams.exe
+C:\Users\Mirza\source\repos\uams\uams\bin\Debug\uams.pdb
+C:\Users\Mirza\source\repos\uams\uams\obj\Debug\uams.csproj.AssemblyReference.cache
+C:\Users\Mirza\source\repos\uams\uams\obj\Debug\uams.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mirza\source\repos\uams\uams\obj\Debug\uams.csproj.CoreCompileInputs.cache
+C:\Users\Mirza\source\repos\uams\uams\obj\Debug\uams.exe
+C:\Users\Mirza\source\repos\uams\uams\obj\Debug\uams.pdb
+C:\Users\Hp\Downloads\uams\uams\bin\Debug\uams.exe.config
+C:\Users\Hp\Downloads\uams\uams\bin\Debug\uams.exe
+C:\Users\Hp\Downloads\uams\uams\bin\Debug\uams.pdb
+C:\Users\Hp\Downloads\uams\uams\obj\Debug\uams.csproj.AssemblyReference.cache
+C:\Users\Hp\Downloads\uams\uams\obj\Debug\uams.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Downloads\uams\uams\obj\Debug\uams.exe
+C:\Users\Hp\Downloads\uams\uams\obj\Debug\uams.pdb
+G:\OOP 2022\uams\uams\obj\Debug\uams.csproj.AssemblyReference.cache
+G:\OOP 2022\uams\uams\obj\Debug\uams.csproj.CoreCompileInputs.cache
+G:\OOP 2022\uams\uams\obj\Debug\uams.exe
+G:\OOP 2022\uams\uams\obj\Debug\uams.pdb
+G:\OOP 2022\uams\uams\bin\Debug\uams.exe.config
+G:\OOP 2022\uams\uams\bin\Debug\uams.exe
+G:\OOP 2022\uams\uams\bin\Debug\uams.pdb
+E:\uams_file\uams\uams\bin\Debug\uams.exe.config
+E:\uams_file\uams\uams\bin\Debug\uams.exe
+E:\uams_file\uams\uams\bin\Debug\uams.pdb
+E:\uams_file\uams\uams\obj\Debug\uams.csproj.AssemblyReference.cache
+E:\uams_file\uams\uams\obj\Debug\uams.csproj.CoreCompileInputs.cache
+E:\uams_file\uams\uams\obj\Debug\uams.exe
+E:\uams_file\uams\uams\obj\Debug\uams.pdb
+E:\semester 2\C# PROJECTS\FINALL CODES\uams_file\uams\uams\bin\Debug\uams.exe.config
+E:\semester 2\C# PROJECTS\FINALL CODES\uams_file\uams\uams\bin\Debug\uams.exe
+E:\semester 2\C# PROJECTS\FINALL CODES\uams_file\uams\uams\bin\Debug\uams.pdb
+E:\semester 2\C# PROJECTS\FINALL CODES\uams_file\uams\uams\obj\Debug\uams.csproj.AssemblyReference.cache
+E:\semester 2\C# PROJECTS\FINALL CODES\uams_file\uams\uams\obj\Debug\uams.csproj.CoreCompileInputs.cache
+E:\semester 2\C# PROJECTS\FINALL CODES\uams_file\uams\uams\obj\Debug\uams.exe
+E:\semester 2\C# PROJECTS\FINALL CODES\uams_file\uams\uams\obj\Debug\uams.pdb
